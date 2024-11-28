@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oleh Sukanets\\Desktop\\Studying\\\u043A\u043E\u0434\u0438 \u0410\u041F\\Lab8.1.string\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2446B965-8632-42DD-BFB6-43A95FC71DA7}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\Oleh Sukanets\\Desktop\\Studying\\\u043A\u043E\u0434\u0438 \u0410\u041F\\Lab8.1.string\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2446B965-8632-42DD-BFB6-43A95FC71DA7}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9200EA4-83B3-4675-9832-E093258807FE}|Lab8.1.string\\Lab8.1.string.vcxproj|C:\\Users\\Oleh Sukanets\\Desktop\\Studying\\\u043A\u043E\u0434\u0438 \u0410\u041F\\Lab8.1.string\\Lab8.1.string\\lab8.1.str.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9200EA4-83B3-4675-9832-E093258807FE}|Lab8.1.string\\Lab8.1.string.vcxproj|solutionrelative:Lab8.1.string\\lab8.1.str.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\Oleh Sukanets\\Desktop\\Studying\\\u043A\u043E\u0434\u0438 \u0410\u041F\\Lab8.1.string\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\Oleh Sukanets\\Desktop\\Studying\\\u043A\u043E\u0434\u0438 \u0410\u041F\\Lab8.1.string\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T11:59:28.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab8.1.str.cpp",
+              "DocumentMoniker": "C:\\Users\\Oleh Sukanets\\Desktop\\Studying\\\u043A\u043E\u0434\u0438 \u0410\u041F\\Lab8.1.string\\Lab8.1.string\\lab8.1.str.cpp",
+              "RelativeDocumentMoniker": "Lab8.1.string\\lab8.1.str.cpp",
+              "ToolTip": "C:\\Users\\Oleh Sukanets\\Desktop\\Studying\\\u043A\u043E\u0434\u0438 \u0410\u041F\\Lab8.1.string\\Lab8.1.string\\lab8.1.str.cpp",
+              "RelativeToolTip": "Lab8.1.string\\lab8.1.str.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T11:59:05.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

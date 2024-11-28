@@ -1,0 +1,3 @@
+﻿  lab8.1.str.cpp
+C:\Users\Oleh Sukanets\Desktop\Studying\коди АП\Lab8.1.string\Lab8.1.string\lab8.1.str.cpp(14,12): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Lab8.1.string.vcxproj -> C:\Users\Oleh Sukanets\Desktop\Studying\коди АП\Lab8.1.string\x64\Debug\Lab8.1.string.exe
